@@ -1,0 +1,103 @@
+{
+    "REF": {
+        "ID": [
+            "REF_ARTBOARD",
+            "REF_PATHS_1_",
+            "REF_PATHS_2_",
+            "REF_PATHS_3_",
+            "REF_ANCHORS",
+            "LABEL_BOX_1_",
+            "REF_TEXT_3_",
+            "BOUNDING_BOX",
+            "LINE_GROUP",
+            "NUMBER",
+            "ANCHOR",
+            "REF_WORKING_INFORMATION"
+        ]
+    },
+    "VIEW_PANELS": {
+        "ID": [
+            "VIEW_PANELS"
+        ],
+        "PANELS": [
+            {
+                "NAME": "FRONT_VIEW",
+                "ID": [
+                    "FRONT_VIEW"
+                ]
+            }
+        ]
+    },
+    "BACKGROUND": {
+        "ID": [
+            "BACKGROUND"
+        ],
+        "APPLICATIONS": [
+            {
+                "NAME": "TWILL",
+                "ID": [
+                    "TWILL"
+                ]
+            },
+            {
+                "NAME": "SUBLIMATION",
+                "ID": [
+                    "SUBLIMATION"
+                ]
+            }
+        ]
+    },
+    "COLOUR_MODES": {
+        "3_ZONE": {
+            "ID": [
+                "_x33__COLOUR_ZONES"
+            ],
+            "COLOUR_ZONES": {
+                "COLOUR_1": {
+                    "ID": [
+                        "COLOUR_1_5_"
+                    ]
+                },
+                "COLOUR_2": {
+                    "ID": [
+                        "COLOUR_2_1_"
+                    ]
+                },
+                "COLOUR_3": {
+                    "ID": [
+                        "COLOUR_3_1_"
+                    ]
+                }
+            }
+        },
+        "2_ZONE": {
+            "ID": [
+                "_x32__COLOUR_ZONES"
+            ],
+            "COLOUR_ZONES": {
+                "COLOUR_1": {
+                    "ID": [
+                        "COLOUR_1_9_"
+                    ]
+                },
+                "COLOUR_2": {
+                    "ID": [
+                        "COLOUR_2_2_"
+                    ]
+                }
+            }
+        },
+        "1_ZONE": {
+            "ID": [
+                "_x31__COLOUR_ZONE"
+            ],
+            "COLOUR_ZONES": {
+                "COLOUR_1": {
+                    "ID": [
+                        "COLOUR_1_3_"
+                    ]
+                }
+            }
+        }
+    }
+}
